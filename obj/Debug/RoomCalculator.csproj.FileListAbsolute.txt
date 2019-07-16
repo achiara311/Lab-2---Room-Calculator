@@ -1,0 +1,7 @@
+C:\Users\achia\OneDrive\Desktop\Exercises\RoomCalculator\bin\Debug\RoomCalculator.exe.config
+C:\Users\achia\OneDrive\Desktop\Exercises\RoomCalculator\bin\Debug\RoomCalculator.exe
+C:\Users\achia\OneDrive\Desktop\Exercises\RoomCalculator\bin\Debug\RoomCalculator.pdb
+C:\Users\achia\OneDrive\Desktop\Exercises\RoomCalculator\obj\Debug\RoomCalculator.csprojAssemblyReference.cache
+C:\Users\achia\OneDrive\Desktop\Exercises\RoomCalculator\obj\Debug\RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\achia\OneDrive\Desktop\Exercises\RoomCalculator\obj\Debug\RoomCalculator.exe
+C:\Users\achia\OneDrive\Desktop\Exercises\RoomCalculator\obj\Debug\RoomCalculator.pdb
